@@ -7,3 +7,4 @@ sr.no. | Topic | Book |
 01|Introduction to google collaboratory| book_01|
 02| plotnine                           | book_02|
 03| plotly                             | book_03|
+04| Some Complex Visualizations        | book_04|
