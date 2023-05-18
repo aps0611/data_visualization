@@ -5,3 +5,4 @@ This repository contains the visualization code snippets. This is part of worksh
 sr.no. | Topic | Book |
 -------|-------|------|
 01|Introduction to google collaboratory| book_01|
+02|                                    | book_02|
