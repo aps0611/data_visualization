@@ -1,4 +1,4 @@
-# data_visualtization
+# data_visualization
 Data Visualization using Python
 
 sr.no. | Topic | Book |
